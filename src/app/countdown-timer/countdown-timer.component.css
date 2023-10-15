@@ -1,0 +1,9 @@
+/* Add your custom styles here or use Tailwind CSS classes */
+.timer-item {
+    text-align: center;
+    padding: 1rem;
+    background-color: #000000;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
