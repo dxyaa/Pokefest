@@ -1,27 +1,20 @@
-# Task
+# Pokefest
+![image](https://github.com/dxyaa/Pokefest/assets/97349882/6b474c1a-a0ad-4898-b5a6-7068fa78aff4)
+Welcome to the Pokefest, your one-stop destination for a fantastic day of Pokemon fun, music, delicious food, and exciting games!
+# About the Festival
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
+The Pokemon Festival is a celebration of the world of Pokemon that brings trainers and fans together for an unforgettable experience. Here's what you can expect:
 
-## Development server
+- **Live Music**: Groove to the beats of live music performances with a Pokemon twist. Our talented artists will keep the energy high throughout the festival.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Gourmet Delights**: Satisfy your taste buds with a wide variety of Pokemon-themed food and beverages. From Pikachu-shaped cookies to Eevee-inspired drinks, we've got it all.
 
-## Code scaffolding
+- **Games and Activities**: Engage in thrilling Pokemon-themed games and activities suitable for trainers of all ages. Test your skills, win prizes, and catch 'em all!
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Get your tickets here : https://task-dxyaa.vercel.app/
 
-## Build
+# Tech Stack
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+* AngularJS
+* 
+* TailwindCSS
